@@ -1,0 +1,4 @@
+numpy
+matplotlib
+opfunu
+job_shop_lib
